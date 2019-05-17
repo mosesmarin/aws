@@ -14,7 +14,9 @@ Material to prepare for Certified Solutions Architect
 
 ### Domain 1: Design for Organizational Complexity
 1.1. Determine cross-account authentication and access strategy for complex organizations (for example, an organization with varying compliance requirements, multiple business units, and varying scalability requirements).
+
 1.2. Determine how to design networks for complex organizations (for example, an organization with varying compliance requirements, multiple business units,and varying scalability requirements).
+
 1.3. Determine how to design a multi-account AWS environment for complex organizations (for example, an organization with varying compliance requirements, multiple business units, and varying scalability requirements).
 
 ### Domain 2: Design for New Solutions 
