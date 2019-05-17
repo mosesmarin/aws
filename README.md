@@ -1,5 +1,5 @@
 # aws
-Material to prepare for Certified Solutions Architect 
+Material to prepare for Certified Solutions Architect. [AWS Exam Guide pdf][LINK3].
 
 # Content Outline
 
@@ -45,3 +45,4 @@ Material to prepare for Certified Solutions Architect
 
 
    [LINK2]: <https://github.com/mosesmarin/aws/blob/master/2.%20Design%20for%20New%20Solutions/Readme.md>
+[LINK3]: <https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS%20Certified%20Solutions%20Architect-Professional_Exam%20Guide.pdf>
