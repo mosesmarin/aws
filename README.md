@@ -6,7 +6,7 @@ Material to prepare for Certified Solutions Architect
 | Domain | % of Examination |
 | ------ | ------ |
 |1. Design for Organizational Complexity|12.5%|
-|2. Design for New Solutions|31%|
+|[2. Design for New Solutions][LINK2]|31%|
 |3. Migration Planning|15%|
 |4. Cost Control|12.5%|
 |5. Continuous Improvement for Existing Solutions|29%|
@@ -17,7 +17,7 @@ Material to prepare for Certified Solutions Architect
   - 1.2. Determine how to design networks for complex organizations (for example, an organization with varying compliance requirements, multiple business units,and varying scalability requirements).
   - 1.3. Determine how to design a multi-account AWS environment for complex organizations (for example, an organization with varying compliance requirements, multiple business units, and varying scalability requirements).
 
-### Domain 2: Design for New Solutions 
+### Domain 2: [Design for New Solutions][LINK2]
   - 2.1. Determine security requirements and controls when designing and implementing a solution.
   - 2.2. Determine a solution design and implementation strategy to meet reliability requirements.
   - 2.3. Determine a solution design to ensure business continuity.
@@ -42,3 +42,6 @@ Material to prepare for Certified Solutions Architect
   - 5.4. Determine a strategy to improve the performance of an existing solution.
   - 5.5. Determine a strategy to improve the security of an existing solution.
   - 5.6. Determine how to improve the deployment of an existing solution.
+
+
+   [LINK2]: <https://github.com/mosesmarin/aws/blob/master/2.%20Design%20for%20New%20Solutions/Readme.md>
