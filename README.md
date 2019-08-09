@@ -43,6 +43,11 @@ Material to prepare for Certified Solutions Architect. [AWS Exam Guide pdf][LINK
   - 5.5. Determine a strategy to improve the security of an existing solution.
   - 5.6. Determine how to improve the deployment of an existing solution.
 
+### Other Resources:
+[White Paper Storage Options In The Cloud][LINK4]
+
 
    [LINK2]: <https://github.com/mosesmarin/aws/blob/master/2.%20Design%20for%20New%20Solutions/Readme.md>
 [LINK3]: <https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS%20Certified%20Solutions%20Architect-Professional_Exam%20Guide.pdf>
+[LINK4]:<https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf>
+
